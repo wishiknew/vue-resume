@@ -1,19 +1,19 @@
 <template>
   <div>
-    <app-header/>
-    <app-container/>
+    <app-header />
+    <app-container />
   </div>
 </template>
 
 <script>
-import appHeader from './components/header.vue'
-import appContainer from './components/container.vue'
+import appHeader from "./components/header.vue";
+import appContainer from "./components/container.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     appHeader,
-    appContainer,
+    appContainer
   }
-}
+};
 </script>

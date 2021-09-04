@@ -1,5 +1,5 @@
 export default {
-    experiences: {},
-    projects:    {},
-    educations:  {},
-}
+  experiences: {},
+  projects: {},
+  educations: {}
+};
